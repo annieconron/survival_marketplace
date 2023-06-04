@@ -19,5 +19,3 @@ The typography will be intentionally jagged and pixelated, harkening back to the
 
 ## Graphics: 
 The graphics on the website will consist of pixel art, which will reinforce the early internet aesthetic. The pixel art will be used to depict the products being sold on the marketplace, as well as the overall design of the website.
-
-![alt text](C:\Users\annab\Documents\survival_marketplace\images\stylepic.jpg)
